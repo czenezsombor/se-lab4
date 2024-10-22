@@ -1,0 +1,14 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- ALL kilo mindent
+FAIL  # <- nem marad primary-ben
+FAIL  # <- nem marad secondary-ben sem
+#
+SUCCESS  # <- GT4500
+SUCCESS  # <- ALL kilo mindent
+FAIL  # <- nem marad primary-ben
+FAIL  # <- nem marad secondary-ben sem
+#
+SUCCESS  # <- GT4500
+SUCCESS  # <- ALL kilo mindent
+FAIL  # <- nem marad primary-ben
+FAIL  # <- nem marad secondary-ben sem

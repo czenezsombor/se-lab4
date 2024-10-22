@@ -1,0 +1,6 @@
+#Teszteset: SINGLE mód először a primary-ból lő
+#Mind két eset kipróbálása, melyből csak a primary jó
+GT4500,0,0,1,1
+TORPEDO,SINGLE
+GT4500,1,0,0,0
+TORPEDO,SINGLE

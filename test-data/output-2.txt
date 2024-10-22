@@ -1,0 +1,4 @@
+SUCCESS  # <- GT4500
+FAIL  # <- TORPEDO_sec elsonek
+SUCCESS  # <- GT4500
+SUCCESS  # <- TORPEDO_prim elsonek

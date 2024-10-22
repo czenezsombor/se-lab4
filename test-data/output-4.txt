@@ -1,0 +1,10 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- primary helyett secondary kilo
+SUCCESS  # <- secondary kiló (vált)
+FAIL  # <- üres (vált), váltana másikra de az is üres
+FAIL  # <- mindkettő üres
+SUCCESS  # <- GT4500
+SUCCESS  # <- primary kilo
+SUCCESS  # <- secondary helyett primary
+FAIL  # <- üres, váltana másikra de az is üres
+FAIL  # <- mindkettő üres
