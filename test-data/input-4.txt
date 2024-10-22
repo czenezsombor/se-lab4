@@ -1,0 +1,14 @@
+#Teszteset: SINGLE esetén ha egyik kiürül másikra vált
+#4 tüzelés 2 siker -> secondary ürítése, 2 fail -> egyik a primary másik a secondary miatt
+#biztos hog csak a secondary-t üríti
+GT4500,0,0,2,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+#másik tárra is tesztelve
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE

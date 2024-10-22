@@ -1,0 +1,6 @@
+SUCCESS  # <- GT4500
+FAIL  # <- secondary nem tudja kilőni, nem vált át ra
+SUCCESS  # <- GT4500
+SUCCESS #<- primary kilő
+FAIL  # <- nem vált át mert hibás
+FAIL  # <- primary biztosan üres

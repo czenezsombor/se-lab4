@@ -1,0 +1,9 @@
+#Teszteset: Hiba esetén nem vált át a másik tárra
+#Próbálunk hibásat kilövetni, de FAIL-t kell kapjunk, mert a másik tár pedg kiürül
+GT4500,0,0,1,1
+TORPEDO,SINGLE
+#Másik tár ellenőrzése
+GT4500,1,0,1,1
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE

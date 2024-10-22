@@ -1,0 +1,5 @@
+#Teszteset: A SINGLE mód csak 1 tárból tüzel
+#2 tuzelés, 1 siker, 2 fail -> azt jelenti hogy az elsődlegest tüzeli először
+GT4500,1,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

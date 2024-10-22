@@ -1,0 +1,5 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- primary kilo
+SUCCESS  # <- secondary kiló (vált)
+SUCCESS  # <- 2. primary kiló (vált)
+FAIL  # <- 2. secondary már nincs tárban
